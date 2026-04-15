@@ -1,6 +1,6 @@
 # E0 251o (2026) – Property-Based Testing for NetworkX
 
-**Team:** AARIF ZAFAR (solo)  
+**Team:** AARIF ZAFAR (13-19-01-19-52-25-1-26572)  
 **Algorithms Tested:**  
 - `networkx.minimum_spanning_tree`  
 - `networkx.shortest_path_length`  
