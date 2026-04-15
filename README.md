@@ -9,10 +9,6 @@
 ## Project Summary
 This project implements 11 property-based tests using **Hypothesis** to validate fundamental mathematical invariants, postconditions, metamorphic properties, and boundary conditions of NetworkX graph algorithms.
 
-**Bonus Achieved (2 points):**  
-A genuine bug was discovered in `nx.group_betweenness_centrality`:
-- Returns **negative** centrality values (mathematically impossible)
-- Raises `KeyError` on internal distance matrix `D` for certain valid inputs
 
 ## Files
 - `networkx_property_tests.py` – All property-based tests + detailed docstrings (the only file required for submission)
